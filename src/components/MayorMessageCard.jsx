@@ -10,7 +10,7 @@ export default function MayorMessageCard() {
         <div className="w-full align-top flex flex-row  rounded-lg overflow-hidden">
           <div className="w-[50%] rounded-[50px] shrink-0">
             <img
-              src={"/public/public-images/the-mayor.svg"}
+              src={"/public-images/the-mayor.svg"}
               alt="card-image"
               className="h-full w-full object-cover rounded-[20px]"
             />
