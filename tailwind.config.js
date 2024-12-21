@@ -6,7 +6,14 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        "phudu": ['Phudu', 'sans-serif']
+        "phudu": ['Phudu', 'sans-serif'],
+        "roboto": ['Roboto', 'sans-serif'],
+      },
+      colors:{
+        "custom-green" : "#08A508",
+        "custom-red-dark" : "#FF0000",
+        "custom-red-light" : "#DC143C",
+        "custom-blue" : "#6471FF",
       }
     },
   },
