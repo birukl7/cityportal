@@ -40,12 +40,12 @@ function LandingPage() {
       <DeputyMayorCard/>
       <DeputyMayorCard 
         firtContainerStyle={"order-2"}
-        personImage={"/public/public-images/deputy-mayor-2.svg"} 
+        personImage={"/public-images/deputy-mayor-2.svg"} 
         personName={"Mr. Gugsa Dejene"}
         personMessage={"As the Deputy Mayor of Shaggar City and head of the Administration and Service Sector, I am pleased to present this bulletin, “The Future City.” This document encapsulates our ongoing commitment to en-hancing the quality of public services and improving the overall well-being of our residents"}
       />
       <DeputyMayorCard 
-        personImage={"/public/public-images/deputy-mayor-3.svg"} 
+        personImage={"/public-images/deputy-mayor-3.svg"} 
         personName={"Mr.Girma Hailu"}
         personMessage={"As the Deputy Mayor of Shaggar City and head of the Urban Agriculture Cluster, I am excited to emphasize the critical role urban agriculture plays in our community. In a rapidly urbanizing world, integrating agricultural practices into our city not only enhances food security but also promotes sustainability, economic resilience, and community well-being."}
       />

@@ -9,7 +9,7 @@ const DeputyMayorCard = ({firtContainerStyle, secondContainerStyle, personImage,
     <div className="w-full align-top flex flex-row  rounded-lg overflow-hidden gap-[70px] ">
       <div className={"rounded-[40px] shrink-0 border border-gray-600 " + firtContainerStyle}>
         <img
-          src={personImage || "/public/public-images/deputy-mayor-1.svg"}
+          src={personImage || "/public-images/deputy-mayor-1.svg"}
           alt="card-image"
           className="w-full max-w-[515px] object-cover rounded-[20px] max-h-[366px]"
         />
